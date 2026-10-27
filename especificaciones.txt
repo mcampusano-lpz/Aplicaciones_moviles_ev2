@@ -1,0 +1,3 @@
+Java 11
+SDK 36
+Android 24
